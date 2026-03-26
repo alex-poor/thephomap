@@ -1,0 +1,2301 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Accident and HealthCare (Tauranga)",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 577 0010",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/accident-and-healthcare/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.168164,
+          -37.689252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "After Hours GP - Spreydon",
+        "type": "Community After Hours Clinic",
+        "hours": "Open today 6:00 PM to 11:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/after-hours-gp-service-christchurch/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.622069,
+          -43.548266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anglesea Accident & Medical",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 834 0333",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/victoria-clinic-gp-and-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.282911,
+          -37.792025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland After Hours",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 276 1190",
+        "hours": "Open today 6:30 PM to 9:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/auckland-after-hours/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.845382,
+          -36.946776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.769483,
+          -36.860883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BOI Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.068919,
+          -35.384619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Christchurch Hospital ED",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.624997,
+          -43.534067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Medical Urgent Care Napier",
+        "type": "Community After Hours Clinic",
+        "phone": "(06) 835 4999",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/napier-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.913108,
+          -39.49557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Counties Medical Urgent Care - Papakura",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 299 9380",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/counties-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.941273,
+          -37.06006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Counties Medical Urgent Care - Takanini",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 299 7670",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/takanini-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.906907,
+          -37.035135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunedin Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.507823,
+          -45.870027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ōamaru Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.96862,
+          -45.0994957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dunedin Urgent Doctors & Accident Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 479 2900",
+        "hours": "Open today 12:00 AM to 11:59 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/dunedin-urgent-doctors-accident-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.50277,
+          -45.872146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Care Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 277 1516",
+        "hours": "Open today 7:00 AM to 11:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/east-care-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.913288,
+          -36.921218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawkes Bay DHB - ED",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.826629,
+          -39.627704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutt Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92381,
+          -41.203494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HVDHB  ED clinic",
+        "type": "DHB ED Department",
+        "phone": "(04) 920 0800",
+        "hours": "Open today 7:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ropata-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.927711,
+          -41.203606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invercargill Urgent Doctor After Hours Service",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.354595,
+          -46.410909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "kaitaia Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.261788,
+          -35.119229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kenepuru Accident & Medical Clinic",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.834045,
+          -41.14664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakes Primecare - Accident and Urgent Medical Care Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 348 1000",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/lakes-primecare-accident-urgent-medical-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.251321,
+          -38.135231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Hutt After Hours Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 567 5345",
+        "hours": "Open today 8:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/hutt-valley-after-hours-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.912057,
+          -41.203964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mid North After Hours",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.94785,
+          -35.229493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Middlemore Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.840341,
+          -36.963977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson Hospital Emergency Department",
+        "type": "DHB ED Department",
+        "phone": "(03) 546 8881",
+        "hours": "Open today 8:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/medical-and-injury-centre-ltd-nelson/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.272799,
+          -41.288058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Shore Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.757427,
+          -36.781354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmerston North Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.621139,
+          -40.33873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pegasus Health 24 Hour Surgery",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.641906,
+          -43.521471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown Lakes Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.735432,
+          -45.023871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotorua Hospital ED",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.247912,
+          -38.13285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ShoreCare Administration",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.754764,
+          -36.784721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shorecare Greville Road",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 486 7777",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/shorecare-urgent-care-greville-road/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.724363,
+          -36.730572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ShoreCare Urgent Care Smales Farm",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.754764,
+          -36.784721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tairawhiti DHB - ED",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.002942,
+          -38.638678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taranaki DHB - Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.057602,
+          -39.072201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tauranga Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.149319,
+          -37.707851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors Ti Rakau - Urgent Care",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.897911,
+          -36.926476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timaru Hospital - Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.256574,
+          -44.408168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tui Medical - Davies Corner Urgent Care",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.286783,
+          -37.761542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tui Medical - Rototuna Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "0800 175 175",
+        "hours": "Open today 7:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/tui-medical-rototuna-urgent-care-and-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.273402,
+          -37.729036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tui Medical - Te Rapa Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "0800 175 175",
+        "hours": "Open today 12:00 AM to 11:59 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/tui-medical-te-rapa-urgent-care-and-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.246795,
+          -37.757533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikato Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.280853,
+          -37.805091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wairarapa After Hours Service",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.676823,
+          -40.949082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waitakere Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.62866,
+          -36.869519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanaka Overnight Acute Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 443 0710",
+        "hours": "Closed today.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wanaka-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.1365,
+          -44.708949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington Accident & Urgent Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 384 4944",
+        "hours": "Open today 8:00 AM to 9:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/wellington-accident-and-urgent-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.779788,
+          -41.301933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington Hospital - Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.779362,
+          -41.308253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellsouth Afterhours",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.347655,
+          -46.415168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "West Coast DHB - ED",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.192094,
+          -42.463269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westcare White Cross Henderson",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.629906,
+          -36.864562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whakatane Hospital - Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.977944,
+          -37.963687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whakatāne Hospital ED - GP Clinic",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.977944,
+          -37.963687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whanganui Accident & Medical",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.038077,
+          -39.945393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whanganui Hospital ED",
+        "type": "DHB ED Department",
+        "phone": "(06) 348 1300",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/whanganui-accident-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.038072,
+          -39.945397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whangarei Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.30237,
+          -35.734328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whangarei White Cross",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 470 1083",
+        "hours": "Open today 7:30 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/white-cross-whangarei-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.326447,
+          -35.727221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross Ascot Accident and Medical Clinic",
+        "type": "Community After Hours Clinic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.800469,
+          -36.887208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross Otahuhu Accident & Medical Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 276 3000",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/white-cross-otahuhu-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.840621,
+          -36.942549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross St Lukes Accident & Medical Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 815 3111",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/white-cross-st-lukes-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.731525,
+          -36.881768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bakerfield Medical and Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 263 7770",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/bakerfield-medical-and-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.88548590000005,
+          -36.9888735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invercargill After Hours Service",
+        "type": "Community After Hours Clinic",
+        "phone": "0800 456 138",
+        "hours": "Open today 6:00 PM to 9:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/invercargill-after-hours-service/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3516445,
+          -46.4109094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westgate Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 833 3134",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/westgate-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.61414575576782,
+          -36.819662579680994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greenwood Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 625 6173",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/greenwood-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7742012,
+          -36.9060132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WeCare Health - Wigram",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 349 8613",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wecare-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5541747,
+          -43.5519957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WeCare Health - Rolleston",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 349 8613",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wecare-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.399506,
+          -43.6192362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors Onehunga",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 634 5184",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/the-doctors-onehunga/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7836727,
+          -36.9233319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rolleston Central Health",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 347 2614",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/rolleston-central-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.3874769,
+          -43.5938932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Doctors Glen Innes - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 528 9054",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/local-doctors-glen-innes-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8561936,
+          -36.8788902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MediCross Urgent Care & GP Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(06) 759 8915",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/medicross-urgent-care-gp-clinic/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.07097199999998,
+          -39.0572506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross Glenfield - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 444 2098",
+        "hours": "Open today 8:30 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kowhai-clinic/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7210099,
+          -36.7809701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Millhouse Integrative Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 537 4980",
+        "hours": "Open today 8:30 AM to 5:45 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/millhouse-integrative-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.91774420000002,
+          -36.9192991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross Lunn Ave - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 570 8899",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/white-cross-lunn-ave-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8317548,
+          -36.8884092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kaikōura Health (Te Hā o Te Ora)",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 319 3501",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kaikoura-health-te-ha-o-te-ora/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.681564,
+          -42.4045962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Promed Doctors",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 379 1112",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/promed-doctors/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.63765039999998,
+          -43.5153373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 325 2411",
+        "hours": "Open today 8:00 AM to 5:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/lincoln-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.48522130000003,
+          -43.6404562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tongan Health Society (Langimālie Medical Centres) - Hill St.",
+        "type": "Community After Hours Clinic",
+        "phone": "",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tongan-health-society-langimalie-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7804659,
+          -36.9238599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tongan Health Society (Langimālie Medical Centres) - Kelston Mall",
+        "type": "Community After Hours Clinic",
+        "phone": "",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/tongan-health-society-langimalie-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6637395,
+          -36.9096407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "GP Central - Stoddard",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 621 0387",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/gp-central-stoddard/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.72104060000004,
+          -36.9000168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Silverdale Medical",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 947 5307",
+        "hours": "Open today 8:30 AM to 4:30 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/nurse-led-practice/ocean-breeze-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6834051,
+          -36.6136183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CareHQ Online Doctors",
+        "type": "Community After Hours Clinic",
+        "phone": "",
+        "hours": "Open today 7:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/virtual-care-clinic/carehq-online-doctors/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7751752,
+          -36.8527245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors Middlemore",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 275 9977",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-middlemore/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.83386180000002,
+          -36.9567364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baderdrive Doctors",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 275 8598",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/baderdrive-doctors/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7972006,
+          -36.969173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Matamata Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 881 9102",
+        "hours": "Open today 8:30 AM to 7:45 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/matamata-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.7784744,
+          -37.8091679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crawford Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 538 0083",
+        "hours": "Open today 7:30 AM to 7:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/crawford-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92929049999998,
+          -36.8919603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urgent Care Franklin Limited",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 238 6610",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/urgent-care-franklin-limited/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.9082969,
+          -37.207801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HealthCentral",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 440 0295",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/healthcentral/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.3953942,
+          -45.2522427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karori Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 920 4562",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/karori-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7368178,
+          -41.2840609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Doctors Browns Road - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 264 1640",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/local-doctors-browns-road-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.86328542232513,
+          -37.01788809890644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Kings Accident & Medical",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 625 2999",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/three-kings-accident-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7526258,
+          -36.9094509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VECA Medical Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 553 9950",
+        "hours": "Open today 9:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/veca-medical-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7247661,
+          -36.7419473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuuhono Hauora",
+        "type": "Community After Hours Clinic",
+        "phone": "0800 888 4666",
+        "hours": "Open today 10:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/nurse-led-practice/tuuhono-hauora/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.15233620000004,
+          -37.561138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kumeū Village Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 412 8446",
+        "hours": "Open today 9:00 AM to 5:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kumeu-village-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.5555983,
+          -36.7757948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Windsor Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 415 0888",
+        "hours": "Open today 9:00 AM to 7:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/windsor-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7141599,
+          -36.7310749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Good Doctor Commerce Street",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 444 4181",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-good-doctor-commerce-street/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2655698,
+          -37.7871417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gore Hospital Services",
+        "type": "DHB ED Department",
+        "url": "https://www.healthpoint.co.nz/public/community/gore-hospital-services/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.9369442,
+          -46.1030597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors New Lynn",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 827 7810",
+        "hours": "Open today 8:00 AM to 7:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/the-doctors-new-lynn/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.68445129999998,
+          -36.9048545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Team Medical",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 297 3000",
+        "hours": "Open today 8:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/team-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.00321216342718,
+          -40.91704789239299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timaru After Hours Medical Services",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 684 8209",
+        "hours": "Open today 5:00 PM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/timaru-after-hours-medical-services/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.2516001,
+          -44.4013454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Doctors Palmerston North - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(06) 355 3300",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/city-doctors-palmerston-north-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.61795970000003,
+          -40.3503733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ratanui Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 837 0740",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ratanui-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6294401,
+          -36.8612396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queenstown Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 441 0500",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/queenstown-medical-centre-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.6556208,
+          -45.0299739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Doctors Mangere Town Centre - Urgent Care & GP Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 275 7954",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/local-doctors-mangere-town-centre-urgent/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7989505,
+          -36.9711686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clutha Health First Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 419 0500",
+        "hours": "Closed today.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/clutha-health-first-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.73963290000006,
+          -46.2366904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fifth Avenue Family Practice",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 578 7087",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/fifth-avenue-family-practice/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.1613408,
+          -37.6927834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Feilding Health Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(06) 323 9696",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/feilding-health-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.56990700000006,
+          -40.2165855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Doctors Dawson Road - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 274 3468",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/local-doctors-dawson-road-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8961312,
+          -36.9769806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Amberley Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 314 8504",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/amberley-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.73291300000005,
+          -43.1543888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hastings Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/hastings-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.8439694,
+          -39.637837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marlborough Urgent Care Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 520 6377",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/marlborough-urgent-care-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.9448833291082,
+          -41.53500393698689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Durham Health",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 313 4659",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/durham-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5916687,
+          -43.302568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tend Constellation Drive Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 479 7770",
+        "hours": "Open today 8:00 AM to 6:30 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/tend-constellation-drive-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.72847090000005,
+          -36.7492265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Local Doctors Mt Roskill - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 627 8552",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/local-doctors-mt-roskill-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7279796,
+          -36.9132158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Poutiri Wellness Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 573 0091",
+        "hours": "Open today 8:00 AM to 5:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/poutiri-wellness-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.3283959,
+          -37.7842548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MEDPLUS",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 489 2011",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/medplus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7790562,
+          -36.7978335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "OneHealth General Practice & Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 522 2800",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/onehealth-general-practice-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7838921,
+          -36.8738338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North West Medical Centre - Kumeū",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 412 2924",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/north-west-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.5527763,
+          -36.7753207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North West Medical Centre - Hobsonville",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 412 2924",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/north-west-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6314497,
+          -36.8087009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahoe Med",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 872 0923",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mahoe-med/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.3388251,
+          -38.0067611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "White Cross New Lynn - Urgent Care & GP",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 828 8912",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/white-cross-new-lynn-urgent-care-gp/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.69378570000003,
+          -36.901993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riccarton Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 343 3661",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/riccarton-clinic/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.5718254,
+          -43.5315249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coast To Coast Health Care",
+        "type": "Community After Hours Clinic",
+        "phone": "",
+        "hours": "",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/coast-to-coast-health-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.5220468,
+          -36.2925215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Avondale Family Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 820 0065",
+        "hours": "Open today 8:00 AM to 7:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/avondale-family-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.69606176018715,
+          -36.89173539201383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johnsonville Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 920 8850",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/johnsonville-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8065111,
+          -41.22172399999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redicare Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 838 0300",
+        "hours": "Open today 8:30 AM to 5:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/redicare-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2734275,
+          -37.7837555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mosgiel Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 489 5135",
+        "hours": "Closed today.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/mosgiel-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.34706919999996,
+          -45.8828617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HEALTH NEW LYNN",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 827 8888",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/health-new-lynn/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6837183,
+          -36.908843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Whanganui Accident & Medical",
+        "type": "Community After Hours Clinic",
+        "phone": "(06) 348 1300",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/whanganui-accident-medical/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.038072,
+          -39.9453971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ropata Health",
+        "type": "Community After Hours Clinic",
+        "phone": "(04) 920 0800",
+        "hours": "Open today 7:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/ropata-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.92669039999998,
+          -41.2049105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medical and Injury Centre Ltd (Nelson)",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 546 8881",
+        "hours": "Open today 8:00 AM to 10:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/medical-and-injury-centre-ltd-nelson/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.2736411,
+          -41.28690819999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Clinic - GP and Urgent Care",
+        "type": "Community After Hours Clinic",
+        "phone": "(07) 834 0333",
+        "hours": "Open today 8:00 AM to 8:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/accident-urgent-medical-care-ae/victoria-clinic-gp-and-urgent-care/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.2827947,
+          -37.7914843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aspiring Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 443 0725",
+        "hours": "Closed today.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/aspiring-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.13760980000006,
+          -44.7095914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wanaka Medical Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(03) 443 0710",
+        "hours": "Closed today.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/wanaka-medical-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.13613140000007,
+          -44.709151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lifeline Medical Centre - Otahuhu",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 276 2822",
+        "hours": "Open today 8:00 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/lifeline-medical-centre-otahuhu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.8417963,
+          -36.9419982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowhai Clinic",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 444 2098",
+        "hours": "Open today 8:30 AM to 6:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/kowhai-clinic/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7205315,
+          -36.7826583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otahuhu Health Centre",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 276 1190",
+        "hours": "Open today 8:30 AM to 9:00 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/gp/otahuhu-health-centre/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.84524520000002,
+          -36.9470557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ocean Breeze Health",
+        "type": "Community After Hours Clinic",
+        "phone": "(09) 947 5307",
+        "hours": "Open today 8:30 AM to 4:30 PM.",
+        "url": "https://www.healthpoint.co.nz/gps-accident-urgent-medical-care/nurse-led-practice/ocean-breeze-health/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.6824589,
+          -36.613589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taupō Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.09601659999998,
+          -38.69696769999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southland Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.3579852472842,
+          -46.4375670562349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tokoroa Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.8593664,
+          -38.229737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hawera Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.2666089,
+          -39.5887929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thames Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.5428173,
+          -37.1366412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taumarunui Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.25214672088626,
+          -38.88957979026393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Kuiti Hospital Emergency Department",
+        "type": "DHB ED Department"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.1528426,
+          -38.3340816
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,2003 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paihia Medical Services",
+        "address": "2/22 Selwyn Road, Paihia 0200",
+        "pho": "Mahitahi Hauora",
+        "enrolled": 5100,
+        "acceptingPatients": true,
+        "dhb": "Northland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.090346,
+          -35.281928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papamoa Pines Medical @ Whitiora",
+        "address": "191 The Boulevard, Papamoa Beach, Papamoa 3118",
+        "pho": "Western Bay of Plenty",
+        "enrolled": 7300,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.340607,
+          -37.724976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toi Ora Health Satellite",
+        "address": "32 King Street, Opotiki 3122",
+        "pho": "Eastern Bay Primary Health Alliance",
+        "enrolled": 1800,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.28551,
+          -38.0064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Health I-CARE",
+        "address": "215 Wairau Road, Wairau Valley, Auckland 0627",
+        "pho": "ProCare",
+        "enrolled": 5200,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.73488,
+          -36.769423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family Doctors - Brookfield",
+        "address": "223 Otumoetai Road, Otumoetai, Tauranga 3110",
+        "pho": "Western Bay of Plenty",
+        "enrolled": 9975,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.136216,
+          -37.682628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahora Medical Centre",
+        "address": "1/900 Tomoana Road, Mahora, Hastings 4120",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 2100,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.848673,
+          -39.628395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Bay Medical Centre",
+        "address": "55A Glenvar Ridge Road, Long Bay, Auckland 0630",
+        "pho": "Comprehensive Care",
+        "enrolled": 12600,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.731214,
+          -36.690929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kensington Health",
+        "address": "8 Kensington Avenue, Kensington, Whangarei 0112",
+        "pho": "Mahitahi Hauora",
+        "enrolled": 7288,
+        "acceptingPatients": true,
+        "dhb": "Northland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.320387,
+          -35.708211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hillside Medical Centre",
+        "address": "711 Richardson Road, Hillsborough, Auckland 1042",
+        "pho": "ProCare",
+        "enrolled": 1650,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.749319,
+          -36.926077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roskill Union and Lynfield Medical Clinic",
+        "address": "1/15 The Avenue, Mount Roskill, Auckland 1041",
+        "pho": "ProCare",
+        "enrolled": 3920,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.723583,
+          -36.925889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "New Windsor Medical Centre",
+        "address": "275 New Windsor Road, New Windsor, Auckland 0600",
+        "pho": "ProCare",
+        "enrolled": 1275,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.716664,
+          -36.911291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blockhouse Bay Medical Centre",
+        "address": "503 Blockhouse Bay Road, Blockhouse Bay, Auckland 0600",
+        "pho": "ProCare",
+        "enrolled": 4532,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.701188,
+          -36.922299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upper Harbour Medical Centre",
+        "address": "393 Hobsonville Road, Hobsonville, Auckland 0618",
+        "pho": "ProCare",
+        "enrolled": 3316,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.646269,
+          -36.799078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marsden Cove Medical Centre",
+        "address": "1A Ngawaka Lane, One Tree Point 0118",
+        "pho": "Mahitahi Hauora",
+        "enrolled": 9281,
+        "acceptingPatients": true,
+        "dhb": "Northland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.46622,
+          -35.839505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clendon Medical Centre",
+        "address": "15 Palmers Road, Clendon Park, Auckland 2103",
+        "pho": "ProCare",
+        "enrolled": 8000,
+        "acceptingPatients": true,
+        "dhb": "Counties Manukau District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.867098,
+          -37.034443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Counties Medical Family Health - Papakura",
+        "address": "18 O'Shannessey Street, Papakura 2110",
+        "pho": "ProCare",
+        "enrolled": 6000,
+        "acceptingPatients": true,
+        "dhb": "Counties Manukau District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.94127,
+          -37.060057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunters Corner Medical Centre",
+        "address": "26 Hoteo Avenue, Papatoetoe, Auckland 2025",
+        "pho": "ProCare",
+        "enrolled": 3550,
+        "acceptingPatients": true,
+        "dhb": "Counties Manukau District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.862571,
+          -36.969863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Takapuna Health",
+        "address": "1/3 Anzac Street, Takapuna, Auckland 0622",
+        "pho": "Comprehensive Care",
+        "enrolled": 7843,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.772422,
+          -36.785915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beachhaven Birkdale Medical",
+        "address": "330 Rangatira Road, Beach Haven, Auckland 0626",
+        "pho": "ProCare",
+        "enrolled": 3040,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.687909,
+          -36.793286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conifer Gardens Medical Centre",
+        "address": "138 Great South Road, Takanini 2112",
+        "pho": "ProCare",
+        "enrolled": 5950,
+        "acceptingPatients": true,
+        "dhb": "Counties Manukau District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.917023,
+          -37.041309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devopnport Health - Auckland CBD",
+        "address": "51 Shortland Street, Auckland Central, Auckland 1010",
+        "pho": "ProCare",
+        "enrolled": 5190,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.768234,
+          -36.847109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parua Bay Medical Centre",
+        "address": "1 Lamb Road, Parua Bay 0174",
+        "pho": "ProCare",
+        "enrolled": 5809,
+        "acceptingPatients": true,
+        "dhb": "Northland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.479171,
+          -35.769009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Family Medicine Birkenhead",
+        "address": "29 Birkenhead Avenue, Birkenhead, Auckland 0626",
+        "pho": "ProCare",
+        "enrolled": 3400,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.726289,
+          -36.811545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gavin Lobo Health Ltd",
+        "address": "1/337 Dominion Road, Mount Eden, Auckland 1024",
+        "pho": "ProCare",
+        "enrolled": 2200,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.749767,
+          -36.878993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Kings Family Medical Centre",
+        "address": "535 Mount Albert Road, Three Kings, Auckland 1042",
+        "pho": "Auckland PHO",
+        "enrolled": 3377,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.75797,
+          -36.909393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kowhai Surgery",
+        "address": "10 Percy Street, Warkworth 0910",
+        "pho": "Comprehensive Care",
+        "enrolled": 4950,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.665926,
+          -36.399162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors Middlemore",
+        "address": "215 Massey Road, Mangere East, Auckland 2024",
+        "pho": "National Hauora Coalition",
+        "enrolled": 12600,
+        "acceptingPatients": true,
+        "dhb": "Counties Manukau District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.832676,
+          -36.958899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Doctors St Heliers",
+        "address": "10 Turua Street, St Heliers, Auckland 1071",
+        "pho": "National Hauora Coalition",
+        "enrolled": 8700,
+        "acceptingPatients": true,
+        "dhb": "Auckland District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.858643,
+          -36.850551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Torbay Community Doctor",
+        "address": "987 Beach Road, Torbay, Auckland 0630",
+        "pho": "Comprehensive Care",
+        "enrolled": 1000,
+        "acceptingPatients": true,
+        "dhb": "Waitemata District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.750696,
+          -36.694408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Totara Health - Flaxmere",
+        "address": "90 Caernarvon Drive, Flaxmere, Hastings 4120",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 16802,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.782975,
+          -39.622366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Queen Street Surgery",
+        "address": "50 Queen Street West, Levin 5510",
+        "pho": "THINK Hauora",
+        "enrolled": 5600,
+        "acceptingPatients": true,
+        "dhb": "Mid Central District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.282935,
+          -40.620052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hutt City Health Clinic",
+        "address": "1/5 Raroa Road, Hutt Central, Lower Hutt 5010",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 7350,
+        "acceptingPatients": true,
+        "dhb": "Hutt Valley District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.908968,
+          -41.207069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plimmer Step Medical Centre",
+        "address": "Level 2 AMI Plaza, 342 Lambton Quay, Wellington Central, Wellington 6011",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 3100,
+        "acceptingPatients": true,
+        "dhb": "Capital and Coast District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.775748,
+          -41.285868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wicksteed Medical Centre",
+        "address": "220 Wicksteed Street, Whanganui 4500",
+        "pho": "Whanganui Regional Health Network",
+        "enrolled": 8000,
+        "acceptingPatients": true,
+        "dhb": "Whanganui District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.047886,
+          -39.928935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taradale Medical Centre",
+        "address": "24 Puketapu Road, Taradale, Napier 4112",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 10498,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.845936,
+          -39.536963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Churton Park Medical Care",
+        "address": "107C Westchester Drive, Churton Park, Wellington 6037",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 7500,
+        "acceptingPatients": true,
+        "dhb": "Capital and Coast District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.807191,
+          -41.20275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Onslow Medical Centre",
+        "address": "125 Moorefield Road, Johnsonville, Wellington 6037",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 10264,
+        "acceptingPatients": true,
+        "dhb": "Capital and Coast District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.800696,
+          -41.229359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woodville Health Centre",
+        "address": "49 Vogel Street, Woodville 4920",
+        "pho": "THINK Hauora",
+        "enrolled": 14310,
+        "acceptingPatients": true,
+        "dhb": "Mid Central District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.866312,
+          -40.336833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carterton Medical Centre",
+        "address": "163 High Street South, Carterton 5713",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 7191,
+        "acceptingPatients": true,
+        "dhb": "Wairarapa District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.525278,
+          -41.027569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastcott Medical",
+        "address": "23 Clive Square West, Napier South, Napier 4110",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 4217,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.912935,
+          -39.492142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taitoko Health",
+        "address": "17 Durham Street, Levin 5510",
+        "pho": "THINK Hauora",
+        "enrolled": 4900,
+        "acceptingPatients": true,
+        "dhb": "Mid Central District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.282211,
+          -40.624179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stortford Accident and Medical",
+        "address": "104 Stortford Street, Saint Leonards, Hastings 4120",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 2049,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.831508,
+          -39.631597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelburn GPs",
+        "address": "42 Upland Road, Kelburn, Wellington 6012",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 2027,
+        "acceptingPatients": true,
+        "dhb": "Capital and Coast District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.765552,
+          -41.287659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shakespeare Road Medical Centre",
+        "address": "24 Shakespeare Road, Bluff Hill, Napier 4110",
+        "pho": "Hauraki PHO",
+        "enrolled": 6358,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.915763,
+          -39.488038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tukituki Medical",
+        "address": "1 Cook Street, Waipukurau 4200",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 7620,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.549021,
+          -39.994619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wadestown Medical Practice",
+        "address": "104A Wadestown Road, Wadestown, Wellington 6012",
+        "pho": "Tū Ora Compass Health",
+        "enrolled": 4000,
+        "acceptingPatients": true,
+        "dhb": "Capital and Coast District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.774358,
+          -41.261818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Te Mata Peak Practice",
+        "address": "33 Napier Road, Havelock North 4130",
+        "pho": "Health Hawkes Bay",
+        "enrolled": 10600,
+        "acceptingPatients": true,
+        "dhb": "Hawkes Bay District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.879831,
+          -39.667311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "City Medical Centre Gisborne",
+        "address": "134 Derby Street, Gisborne 4010",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 6579,
+        "acceptingPatients": true,
+        "dhb": "Tairawhiti District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.022626,
+          -38.664433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eltham Health Centre",
+        "address": "132 High Street, Eltham 4322",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 2150,
+        "acceptingPatients": true,
+        "dhb": "Taranaki District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.299682,
+          -39.431346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mahoe Med",
+        "address": "4/670 Cambridge Road, Te Awamutu 3800",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 14300,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.340353,
+          -38.008372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Victoria Clinic (M)",
+        "address": "173 Anglesea Street, Hamilton Central, Hamilton 3204",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 6699,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.282947,
+          -37.791404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ohope Beach Medical Centre",
+        "address": "262 Pohutukawa Avenue, Ohope 3121",
+        "pho": "Eastern Bay Primary Health Alliance",
+        "enrolled": 2270,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.058239,
+          -37.972235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Glenview Medical Centre",
+        "address": "1 Urlich Avenue, Melville, Hamilton 3206",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 11186,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.282945,
+          -37.816958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Devon Medical Centre",
+        "address": "283 Devon Street West, New Plymouth 4310",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 10450,
+        "acceptingPatients": true,
+        "dhb": "Taranaki District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.062778,
+          -39.061426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stratford Health Centre",
+        "address": "8 Romeo Street, Stratford 4332",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 19000,
+        "acceptingPatients": true,
+        "dhb": "Taranaki District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.285957,
+          -39.348059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katikati Medical Centre",
+        "address": "4 Clive Road, Katikati 3129",
+        "pho": "Western Bay of Plenty",
+        "enrolled": 9700,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.926808,
+          -37.552713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge Family Health Centre",
+        "address": "1913 Cambridge Road, Cambridge 3434",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 9600,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.453943,
+          -37.889515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leamington Medical Centre",
+        "address": "127 Shakespeare Street, Leamington, Cambridge 3432",
+        "pho": "National Hauora Coalition",
+        "enrolled": 6838,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.475159,
+          -37.90611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little London Medical Clinic",
+        "address": "6 Little London Lane, Hamilton Central, Hamilton 3204",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 3200,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.279622,
+          -37.782109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flagstaff Medical Centre",
+        "address": "2 Endeavour Avenue, Flagstaff, Hamilton 3210",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 5250,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.254779,
+          -37.738582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ruatahi Medical Centre",
+        "address": "1271 Hinemoa Street, Rotorua 3010",
+        "pho": "Rotorua Area Primary Health Services",
+        "enrolled": 4684,
+        "acceptingPatients": true,
+        "dhb": "Lakes District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.248048,
+          -38.137691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Strandon Health",
+        "address": "13/17 Nobs Line, Strandon, New Plymouth 4312",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 2918,
+        "acceptingPatients": true,
+        "dhb": "Taranaki District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.09469,
+          -39.049991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tara Road Medical Centre",
+        "address": "1F Tara Road, RD 7, Te Puke 3187",
+        "pho": "Western Bay of Plenty",
+        "enrolled": 5200,
+        "acceptingPatients": true,
+        "dhb": "Bay of Plenty District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.306047,
+          -37.714581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Rivers Medical Centre",
+        "address": "75 Customhouse Street, Gisborne 4010",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 20450,
+        "acceptingPatients": true,
+        "dhb": "Tairawhiti District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          178.025266,
+          -38.670001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tui Medical - Rototuna Medical Care",
+        "address": "Rototuna Shopping Centre, 4/44 Horsham Downs Road, Rototuna North, Hamilton 3210",
+        "pho": "Hauraki PHO",
+        "enrolled": 60000,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.274865,
+          -37.729401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doctors @ 42",
+        "address": "42 Main Street, Huntly 3700",
+        "pho": "National Hauora Coalition",
+        "enrolled": 4264,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.158947,
+          -37.556198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ngaruawahia Medical Centre",
+        "address": "11 Galileo Street, Ngaruawahia 3720",
+        "pho": "National Hauora Coalition",
+        "enrolled": 6207,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.150427,
+          -37.66735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Medicross Urgent Care & GP Clinic",
+        "address": "8 Egmont Street, New Plymouth 4310",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 2998,
+        "acceptingPatients": true,
+        "dhb": "Taranaki District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.070949,
+          -39.057247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dr Krishnen Pillay's Surgery",
+        "address": "189 Victoria Street, Cambridge 3434",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 1350,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.463759,
+          -37.883304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South City Health (Hamilton)",
+        "address": "91 Kahikatea Drive, Melville, Hamilton 3206",
+        "pho": "Pinnacle Midlands Health Network",
+        "enrolled": 7500,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.271388,
+          -37.808352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cambridge Medical Centre",
+        "address": "48 Alpha Street, Cambridge 3434",
+        "pho": "National Hauora Coalition",
+        "enrolled": 10000,
+        "acceptingPatients": true,
+        "dhb": "Waikato District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.465787,
+          -37.893657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson East Family Medical Centre",
+        "address": "7 Alton Street, Nelson 7010",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 3400,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.290129,
+          -41.275105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tuapeka Community Health",
+        "address": "43 Whitehaven Street, Lawrence 9532",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 1163,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.689588,
+          -45.919814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arena HealthCare",
+        "address": "33 Arena Avenue, Avenal, Invercargill 9810",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 4200,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.342389,
+          -46.404401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oamaru Doctors",
+        "address": "8 Coquet Street, Oamaru 9400",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 3833,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.972062,
+          -45.097738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mansfield Health Practice",
+        "address": "206A Papanui Road, Merivale, Christchurch 8014",
+        "pho": "Pegasus Health",
+        "enrolled": 2000,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.621493,
+          -43.511537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Juno Health",
+        "address": "189 Cranford Street, St Albans, Christchurch 8014",
+        "pho": "Pegasus Health",
+        "enrolled": 3090,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.634697,
+          -43.505004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altimus Health",
+        "address": "18 Limerick Street, Alexandra 9320",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 1762,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.391756,
+          -45.257736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "HealthCentral",
+        "address": "105 Tarbert Street, Alexandra 9320",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 9600,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.395394,
+          -45.252243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willow Medical Centre",
+        "address": "63 Catherine Street, Windsor, Invercargill 9810",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 4930,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.365964,
+          -46.395796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merivale Medical Practice",
+        "address": "236 Papanui Road, Merivale, Christchurch 8014",
+        "pho": "Christchurch PHO",
+        "enrolled": 8000,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620202,
+          -43.510132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "WeCare Faringdon",
+        "address": "423 Springston Rolleston Road, Rolleston 7615",
+        "pho": "Pegasus Health",
+        "enrolled": 26000,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.402086,
+          -43.619236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "East Otago Health - Waikouaiti Clinic",
+        "address": "201 Main Road, Waikouaiti 9510",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 2300,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.668797,
+          -45.595776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Three Rivers Health",
+        "address": "7 Allens Road, Allenton, Ashburton 7700",
+        "pho": "Waitaha Primary Health",
+        "enrolled": 10550,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.738114,
+          -43.889113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cromwell Medical Centre",
+        "address": "192 Waenga Drive, Cromwell 9310",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 4500,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.196277,
+          -45.037809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Omaka Medical",
+        "address": "4 Richardson Avenue, Burleigh, Blenheim 7201",
+        "pho": "Marlborough Primary Health/Kimi Hauora Wairau",
+        "enrolled": 6000,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.934109,
+          -41.529652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gardens Medical & Sports Medicine Centre",
+        "address": "26 Bank Street, North East Valley, Dunedin 9010",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 4850,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.517584,
+          -45.854574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Invercargill Medical Centre",
+        "address": "160 Don Street, Invercargill 9810",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 12600,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.358469,
+          -46.41062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meridian Medical Centre",
+        "address": "Suite 3 Car Park Level One, 3/267 George Street, Dunedin Central, Dunedin 9016",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 6300,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.505297,
+          -45.870173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milton Medical Centre",
+        "address": "7 Eden Street, Milton 9220",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 7100,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.958401,
+          -46.120614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson City Medical Centre",
+        "address": "125 Collingwood Street, Nelson 7010",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 5200,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.287133,
+          -41.274764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picton Medical Centre",
+        "address": "114 High Street, Picton 7220",
+        "pho": "Marlborough Primary Health/Kimi Hauora Wairau",
+        "enrolled": 5350,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.007005,
+          -41.292706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangiora Medical - Good Street",
+        "address": "17 Good Street, Rangiora 7400",
+        "pho": "Waitaha Primary Health",
+        "enrolled": 7000,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.593861,
+          -43.302039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Redwoodtown Medical",
+        "address": "72 Cleghorn Street, Redwoodtown, Blenheim 7201",
+        "pho": "Marlborough Primary Health/Kimi Hauora Wairau",
+        "enrolled": 7700,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.955667,
+          -41.530064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South City Medical Centre (Invercargill)",
+        "address": "270 Elles Road, Strathern, Invercargill 9812",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 2900,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.36163,
+          -46.428381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Hill Family Practice",
+        "address": "11 Arun Street, South Hill, Oamaru 9400",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 1800,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.965046,
+          -45.106186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saddle View Health Centre",
+        "address": "242 Main South Road, Green Island, Dunedin 9018",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 4417,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.426004,
+          -45.903078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barrington Medical Centre",
+        "address": "16 Athelstan Street, Spreydon, Christchurch 8024",
+        "pho": "Pegasus Health",
+        "enrolled": 12950,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.620323,
+          -43.557081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riverton Medical Centre",
+        "address": "104 Palmerston Street, Riverton 9822",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 1549,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.016725,
+          -46.349754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waimea Medical",
+        "address": "57 Salisbury Road, Richmond 7020",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 12799,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.193849,
+          -41.33868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dee Street Primary Care",
+        "address": "6A Dee Street, Timaru 7910",
+        "pho": "Waitaha Primary Health",
+        "enrolled": 6824,
+        "acceptingPatients": true,
+        "dhb": "South Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.247844,
+          -44.396153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Peak Health",
+        "address": "16 Cox Street, Geraldine 7930",
+        "pho": "Waitaha Primary Health",
+        "enrolled": 3342,
+        "acceptingPatients": true,
+        "dhb": "South Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.242564,
+          -44.093096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Penguin Medical Centre",
+        "address": "2A Preston Street, West End, Timaru 7910",
+        "pho": "Waitaha Primary Health",
+        "enrolled": 1700,
+        "acceptingPatients": true,
+        "dhb": "South Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.231849,
+          -44.391003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nelson Family Medicine",
+        "address": "Health@132, 132 Collingwood Street, Nelson 7010",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 7500,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.2866,
+          -41.274968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alexandra Family Medical Centre",
+        "address": "18 Limerick Street, Alexandra 9320",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 1830,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          169.391758,
+          -45.257735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Avon Medical Centre",
+        "address": "30 North Avon Road, Richmond, Christchurch 8013",
+        "pho": "Pegasus Health",
+        "enrolled": 5015,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.654025,
+          -43.517757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lumsden Medical Centre",
+        "address": "58 Garden Street, Lumsden 9730",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 2483,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.446373,
+          -45.735598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tima Health",
+        "address": "46 Waimea Road, Nelson South, Nelson 7010",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 2700,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.277999,
+          -41.282388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Harley Street Medical",
+        "address": "14 Harley Street, Nelson 7010",
+        "pho": "Nelson Bays Primary Health",
+        "enrolled": 5025,
+        "acceptingPatients": true,
+        "dhb": "Nelson Marlborough District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.287792,
+          -41.273128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bishopdale Medical Centre",
+        "address": "1 Eastling Street, Bishopdale, Christchurch 8053",
+        "pho": "Pegasus Health",
+        "enrolled": 2960,
+        "acceptingPatients": true,
+        "dhb": "Canterbury District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.588065,
+          -43.490166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gore Medical Centre",
+        "address": "12 Eccles Street, Gore 9710",
+        "pho": "Well South Primary Health Network",
+        "enrolled": 8200,
+        "acceptingPatients": true,
+        "dhb": "Southern District Health Board"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.938741,
+          -46.104013
+        ]
+      }
+    }
+  ]
+}
