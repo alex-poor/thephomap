@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Auckland",
+        "regionCode": "AUK",
+        "population": 1695200,
+        "medianAge": 34,
+        "deprivationIndex": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[174.5, -36.6], [175.1, -36.6], [175.1, -37.1], [174.5, -37.1], [174.5, -36.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wellington",
+        "regionCode": "WGN",
+        "population": 543500,
+        "medianAge": 36,
+        "deprivationIndex": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[174.6, -40.8], [175.4, -40.8], [175.4, -41.4], [174.6, -41.4], [174.6, -40.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canterbury",
+        "regionCode": "CAN",
+        "population": 624300,
+        "medianAge": 38,
+        "deprivationIndex": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[171.0, -42.8], [173.0, -42.8], [173.0, -44.0], [171.0, -44.0], [171.0, -42.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waikato",
+        "regionCode": "WKO",
+        "population": 496700,
+        "medianAge": 36,
+        "deprivationIndex": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[174.8, -37.1], [176.2, -37.1], [176.2, -38.4], [174.8, -38.4], [174.8, -37.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bay of Plenty",
+        "regionCode": "BOP",
+        "population": 333600,
+        "medianAge": 39,
+        "deprivationIndex": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[176.0, -37.4], [177.2, -37.4], [177.2, -38.2], [176.0, -38.2], [176.0, -37.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otago",
+        "regionCode": "OTA",
+        "population": 245300,
+        "medianAge": 39,
+        "deprivationIndex": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[168.5, -44.5], [171.0, -44.5], [171.0, -46.5], [168.5, -46.5], [168.5, -44.5]]]
+      }
+    }
+  ]
+}
