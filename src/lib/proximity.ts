@@ -59,7 +59,7 @@ export function proximityColor(
   distanceKm: number,
   thresholds: ProximityThresholds = thresholdsFromRadius(DEFAULT_RADIUS_KM),
 ): string {
-  if (distanceKm <= thresholds.close) return '#2dbdb6'  // teal (close)
-  if (distanceKm <= thresholds.medium) return '#f59e0b'  // amber (medium)
-  return '#ef4444'                                        // red (far)
+  if (distanceKm <= thresholds.close) return '#ed696e'  // hibiscus (close)
+  if (distanceKm <= thresholds.medium) return '#f6aa01'  // marigold (medium)
+  return '#c23d41'                                        // plum (far)
 }

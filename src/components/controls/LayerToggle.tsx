@@ -16,7 +16,7 @@ export function LayerToggle({ visibility, onToggle }: LayerToggleProps) {
 
   return (
     <div>
-      <h2 className="mb-2 flex items-center gap-1.5 font-heading text-sm font-semibold text-pho-navy">
+      <h2 className="mb-2 flex items-center gap-1.5 font-heading text-sm font-semibold text-pho-onyx">
         <Layers className="h-4 w-4" />
         Layers
       </h2>
@@ -29,13 +29,13 @@ export function LayerToggle({ visibility, onToggle }: LayerToggleProps) {
             {layers.map((layer) => (
               <label
                 key={layer.id}
-                className="flex cursor-pointer items-center gap-2 rounded px-1 py-0.5 hover:bg-pho-light"
+                className="flex cursor-pointer items-center gap-2 rounded px-1 py-0.5 hover:bg-pho-dusk"
               >
                 <input
                   type="checkbox"
                   checked={visibility[layer.id] ?? false}
                   onChange={() => onToggle(layer.id)}
-                  className="accent-pho-teal"
+                  className="accent-pho-hibiscus"
                 />
                 <span className="text-sm text-gray-700">{layer.label}</span>
               </label>

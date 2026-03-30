@@ -20,7 +20,7 @@ export function GpPracticeInfoPanel({
   return (
     <div className="space-y-4">
       <div>
-        <h3 className="font-heading text-lg font-semibold text-pho-navy">{name}</h3>
+        <h3 className="font-heading text-lg font-semibold text-pho-onyx">{name}</h3>
         <p className="text-sm text-gray-500">{address}</p>
       </div>
 
@@ -42,7 +42,7 @@ export function GpPracticeInfoPanel({
       {/* Nearest urgent/after-hours care */}
       {nearestHospitals.length > 0 && (
         <div>
-          <h4 className="mb-2 font-heading text-sm font-semibold text-pho-navy">
+          <h4 className="mb-2 font-heading text-sm font-semibold text-pho-onyx">
             Nearest Urgent / After-Hours Care
           </h4>
           <ul className="space-y-2">
@@ -64,7 +64,7 @@ export function GpPracticeInfoPanel({
                     {nh.feature.properties.services.map((s: string) => (
                       <span
                         key={s}
-                        className="rounded bg-pho-light px-1.5 py-0.5 text-xs text-pho-blue"
+                        className="rounded bg-pho-dusk px-1.5 py-0.5 text-xs text-pho-plum"
                       >
                         {s}
                       </span>
@@ -89,7 +89,7 @@ export function HospitalInfoPanel({ feature }: HospitalInfoProps) {
 
   return (
     <div className="space-y-3">
-      <h3 className="font-heading text-lg font-semibold text-pho-navy">{name}</h3>
+      <h3 className="font-heading text-lg font-semibold text-pho-onyx">{name}</h3>
 
       <dl className="grid grid-cols-2 gap-2 text-sm">
         <dt className="text-gray-500">DHB</dt>
@@ -106,12 +106,12 @@ export function HospitalInfoPanel({ feature }: HospitalInfoProps) {
 
       {services?.length > 0 && (
         <div>
-          <h4 className="mb-1 font-heading text-sm font-semibold text-pho-navy">Services</h4>
+          <h4 className="mb-1 font-heading text-sm font-semibold text-pho-onyx">Services</h4>
           <div className="flex flex-wrap gap-1">
             {services.map((s) => (
               <span
                 key={s}
-                className="rounded bg-pho-navy/10 px-1.5 py-0.5 text-xs text-pho-navy"
+                className="rounded bg-pho-onyx/10 px-1.5 py-0.5 text-xs text-pho-onyx"
               >
                 {s}
               </span>

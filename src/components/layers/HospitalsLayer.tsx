@@ -15,7 +15,7 @@ export function HospitalsLayer({ data, visible }: HospitalsLayerProps) {
         id="hospital-points"
         type="circle"
         paint={{
-          'circle-color': '#213368',
+          'circle-color': '#3c3c3b',
           'circle-radius': 12,
           'circle-stroke-width': 2,
           'circle-stroke-color': '#ffffff',

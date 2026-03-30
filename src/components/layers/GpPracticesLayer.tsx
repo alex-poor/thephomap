@@ -61,7 +61,7 @@ export function GpPracticesLayer({
         type="circle"
         filter={['has', 'point_count']}
         paint={{
-          'circle-color': '#2dbdb6',
+          'circle-color': '#ed696e',
           'circle-opacity': 0.7,
           'circle-radius': [
             'step',

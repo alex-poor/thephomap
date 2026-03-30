@@ -16,7 +16,8 @@ export function useDataLoader<T>(url: string): DataLoaderState<T> {
   useEffect(() => {
     let cancelled = false
 
-    fetch(url)
+    fetch(`${import.meta.env.BASE_URL}${url.replace(/^\//, '')}`)
+
       .then((res) => {
         if (!res.ok) throw new Error(`Failed to fetch ${url}: ${res.status}`)
         return res.json() as Promise<T>

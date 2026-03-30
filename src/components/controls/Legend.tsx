@@ -10,7 +10,7 @@ export function Legend({ radiusKm }: LegendProps) {
 
   return (
     <div className="space-y-3">
-      <h2 className="font-heading text-sm font-semibold text-pho-navy">Legend</h2>
+      <h2 className="font-heading text-sm font-semibold text-pho-onyx">Legend</h2>
 
       {/* Region choropleth */}
       <div>
@@ -43,7 +43,7 @@ export function Legend({ radiusKm }: LegendProps) {
           <div className="flex items-center gap-2">
             <span
               className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: '#2dbdb6' }}
+              style={{ backgroundColor: '#ed696e' }}
             />
             <span className="text-xs text-gray-600">
               &lt; {Math.round(thresholds.close)} km
@@ -52,7 +52,7 @@ export function Legend({ radiusKm }: LegendProps) {
           <div className="flex items-center gap-2">
             <span
               className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: '#f59e0b' }}
+              style={{ backgroundColor: '#f6aa01' }}
             />
             <span className="text-xs text-gray-600">
               {Math.round(thresholds.close)}–{Math.round(thresholds.medium)} km
@@ -61,7 +61,7 @@ export function Legend({ radiusKm }: LegendProps) {
           <div className="flex items-center gap-2">
             <span
               className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: '#ef4444' }}
+              style={{ backgroundColor: '#c23d41' }}
             />
             <span className="text-xs text-gray-600">
               &gt; {Math.round(thresholds.medium)} km
@@ -77,14 +77,14 @@ export function Legend({ radiusKm }: LegendProps) {
           <div className="flex items-center gap-2">
             <span
               className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: '#2dbdb6' }}
+              style={{ backgroundColor: '#ed696e' }}
             />
             <span className="text-xs text-gray-600">GP Practice</span>
           </div>
           <div className="flex items-center gap-2">
             <span
               className="inline-block h-3 w-3 rounded-full"
-              style={{ backgroundColor: '#213368' }}
+              style={{ backgroundColor: '#3c3c3b' }}
             />
             <span className="text-xs text-gray-600">Urgent/after-hours care</span>
           </div>
@@ -95,7 +95,7 @@ export function Legend({ radiusKm }: LegendProps) {
       <div>
         <div className="flex items-center gap-2">
           <span
-            className="inline-block h-3 w-6 rounded border-2 border-dashed border-pho-blue bg-pho-blue/10"
+            className="inline-block h-3 w-6 rounded border-2 border-dashed border-pho-plum bg-pho-plum/10"
           />
           <span className="text-xs text-gray-600">Proximity radius</span>
         </div>

@@ -11,7 +11,7 @@ export function RegionInfoPanel({ feature }: RegionInfoPanelProps) {
   return (
     <div className="space-y-3">
       <div>
-        <h3 className="font-heading text-lg font-semibold text-pho-navy">{rc}</h3>
+        <h3 className="font-heading text-lg font-semibold text-pho-onyx">{rc}</h3>
         <p className="text-sm text-gray-600">{sa3_name}</p>
       </div>
       <dl className="grid grid-cols-2 gap-2 text-sm">

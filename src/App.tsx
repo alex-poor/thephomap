@@ -190,14 +190,14 @@ export default function App() {
             step={5}
             value={radiusKm}
             onChange={(e) => setRadiusKm(Number(e.target.value))}
-            className="mt-1 w-full accent-pho-teal"
+            className="mt-1 w-full accent-pho-hibiscus"
           />
         </div>
 
         <Legend radiusKm={radiusKm} />
 
         {selected && (
-          <div className="rounded-lg border border-pho-teal/20 bg-pho-light p-3">
+          <div className="rounded-lg border border-pho-hibiscus/20 bg-pho-dusk p-3">
             <SelectionPanel
               selected={selected}
               nearestHospitals={nearestHospitals}
@@ -208,7 +208,7 @@ export default function App() {
         <div className="mt-auto space-y-3 border-t border-gray-200 pt-3">
           <button
             onClick={() => setReportOpen(true)}
-            className="flex w-full items-center gap-2 rounded-lg border border-pho-teal/30 bg-pho-light px-3 py-2 text-sm font-medium text-pho-navy transition-colors hover:bg-pho-teal/20"
+            className="flex w-full items-center gap-2 rounded-lg border border-pho-hibiscus/30 bg-pho-dusk px-3 py-2 text-sm font-medium text-pho-onyx transition-colors hover:bg-pho-hibiscus/20"
           >
             <BarChart3 className="h-4 w-4" />
             Access &amp; Equity Summary

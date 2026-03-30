@@ -102,7 +102,7 @@ export function SearchFilter({
           aria-activedescendant={
             activeIndex >= 0 ? `search-result-${activeIndex}` : undefined
           }
-          className="w-full rounded-md border border-gray-200 py-1.5 pl-8 pr-3 text-sm focus:border-pho-teal focus:outline-none focus:ring-1 focus:ring-pho-teal"
+          className="w-full rounded-md border border-gray-200 py-1.5 pl-8 pr-3 text-sm focus:border-pho-hibiscus focus:outline-none focus:ring-1 focus:ring-pho-hibiscus"
         />
       </div>
 
@@ -123,12 +123,12 @@ export function SearchFilter({
                 onClick={() => pick(r)}
                 onMouseEnter={() => setActiveIndex(i)}
                 className={`flex w-full items-center gap-2 px-3 py-2 text-left text-sm ${
-                  i === activeIndex ? 'bg-pho-light' : ''
+                  i === activeIndex ? 'bg-pho-dusk' : ''
                 }`}
               >
                 <span
                   className={`inline-block h-2 w-2 rounded-full ${
-                    r.type === 'gp' ? 'bg-pho-teal' : 'bg-pho-navy'
+                    r.type === 'gp' ? 'bg-pho-hibiscus' : 'bg-pho-onyx'
                   }`}
                 />
                 <span className="text-gray-700">{r.name}</span>

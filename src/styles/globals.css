@@ -1,15 +1,24 @@
 @import "tailwindcss";
 @import "maplibre-gl/dist/maplibre-gl.css";
 
-@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+@font-face {
+  font-family: 'Aptos';
+  src: local('Aptos');
+  font-weight: 100 900;
+  font-style: normal;
+}
 
 @theme {
-  --color-pho-navy: #213368;
-  --color-pho-blue: #007996;
-  --color-pho-teal: #2dbdb6;
-  --color-pho-light: #ebfffd;
-  --font-heading: 'Lexend', sans-serif;
-  --font-body: 'Montserrat', sans-serif;
+  --color-pho-hibiscus: #ed696e;
+  --color-pho-marigold: #f6aa01;
+  --color-pho-plum: #c23d41;
+  --color-pho-onyx: #3c3c3b;
+  --color-pho-dusk: #fad1d4;
+  --color-pho-nimbus: #e3e1e0;
+  --font-heading: 'Source Sans 3', sans-serif;
+  --font-body: 'Aptos', 'Source Sans 3', sans-serif;
 }
 
 html,

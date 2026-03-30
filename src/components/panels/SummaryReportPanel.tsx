@@ -23,16 +23,16 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
       >
         <div className="flex h-full flex-col">
           {/* Header */}
-          <div className="flex items-center justify-between border-b border-pho-teal/30 px-6 py-4">
-            <h1 className="font-heading text-lg font-semibold text-pho-navy">
+          <div className="flex items-center justify-between border-b border-pho-hibiscus/30 px-6 py-4">
+            <h1 className="font-heading text-lg font-semibold text-pho-onyx">
               GP Practice Access &amp; Equity Summary
             </h1>
             <button
               onClick={onClose}
-              className="rounded p-1 hover:bg-pho-light"
+              className="rounded p-1 hover:bg-pho-dusk"
               aria-label="Close report"
             >
-              <X className="h-5 w-5 text-pho-navy" />
+              <X className="h-5 w-5 text-pho-onyx" />
             </button>
           </div>
 
@@ -50,7 +50,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
                 after-hours clinic and the nearest Emergency Department.
               </p>
 
-              <h4 className="mb-2 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 font-heading text-xs font-semibold text-pho-onyx">
                 Nearest after-hours clinic
               </h4>
               <Table
@@ -70,7 +70,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
                 patients) are 100+ km from the nearest after-hours clinic.
               </Callout>
 
-              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-onyx">
                 Practices &gt; 30 km from nearest after-hours clinic
               </h4>
               <p className="mb-2 text-xs text-gray-500">
@@ -94,7 +94,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
                 ]}
               />
 
-              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-onyx">
                 Nearest Emergency Department (for reference)
               </h4>
               <Table
@@ -149,7 +149,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
               </p>
               <p className="mb-3 text-xs text-gray-500">39 of 111 practices flagged.</p>
 
-              <h4 className="mb-2 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 font-heading text-xs font-semibold text-pho-onyx">
                 Multiple flags (highest concern)
               </h4>
               <Table
@@ -159,7 +159,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
                 rows={MULTI_FLAG_ROWS}
               />
 
-              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-onyx">
                 Remote only (&gt; 50 km from after-hours care)
               </h4>
               <Table
@@ -177,7 +177,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
                 ]}
               />
 
-              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-navy">
+              <h4 className="mb-2 mt-4 font-heading text-xs font-semibold text-pho-onyx">
                 High deprivation only (near after-hours care)
               </h4>
               <Table
@@ -241,7 +241,7 @@ export function SummaryReportPanel({ open, onClose }: SummaryReportPanelProps) {
 function Section({ title, children }: { title: string; children: React.ReactNode }) {
   return (
     <section className="mb-6">
-      <h2 className="mb-3 border-b border-pho-teal/20 pb-1 font-heading text-sm font-semibold text-pho-navy">
+      <h2 className="mb-3 border-b border-pho-hibiscus/20 pb-1 font-heading text-sm font-semibold text-pho-onyx">
         {title}
       </h2>
       {children}
@@ -251,7 +251,7 @@ function Section({ title, children }: { title: string; children: React.ReactNode
 
 function Callout({ children }: { children: React.ReactNode }) {
   return (
-    <div className="mt-3 rounded border-l-3 border-pho-teal bg-pho-light px-3 py-2 text-xs text-pho-navy">
+    <div className="mt-3 rounded border-l-3 border-pho-hibiscus bg-pho-dusk px-3 py-2 text-xs text-pho-onyx">
       {children}
     </div>
   )
@@ -282,7 +282,7 @@ function Table({
     <div className="overflow-x-auto rounded border border-gray-200">
       <table className="w-full text-xs">
         <thead>
-          <tr className="bg-pho-navy text-left text-white">
+          <tr className="bg-pho-onyx text-left text-white">
             {headers.map((h, i) => (
               <th
                 key={i}

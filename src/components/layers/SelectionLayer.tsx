@@ -29,7 +29,7 @@ export function SelectionLayer({ center }: SelectionLayerProps) {
           'circle-radius': 20,
           'circle-color': 'transparent',
           'circle-stroke-width': 2,
-          'circle-stroke-color': '#213368',
+          'circle-stroke-color': '#3c3c3b',
           'circle-stroke-opacity': 0.4,
         }}
       />
@@ -41,7 +41,7 @@ export function SelectionLayer({ center }: SelectionLayerProps) {
           'circle-radius': 13,
           'circle-color': 'transparent',
           'circle-stroke-width': 3,
-          'circle-stroke-color': '#213368',
+          'circle-stroke-color': '#3c3c3b',
           'circle-stroke-opacity': 0.9,
         }}
       />

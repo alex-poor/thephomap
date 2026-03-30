@@ -46,6 +46,22 @@ export const MapContainer = forwardRef<MapContainerHandle, MapContainerProps>(
     if (!source) return
     source.setTiles([...BASEMAPS[basemap].tiles])
   }, [basemap])
+
+  // Keep basemap raster at the bottom of the layer stack so features always render on top
+  useEffect(() => {
+    const map = mapRef.current?.getMap()
+    if (!map) return
+    const ensureBasemapBelow = () => {
+      if (!map.getLayer('basemap')) return
+      const layers = map.getStyle()?.layers
+      if (layers && layers.length > 1 && layers[0].id !== 'basemap') {
+        map.moveLayer('basemap', layers[0].id)
+      }
+    }
+    map.on('sourcedata', ensureBasemapBelow)
+    return () => { map.off('sourcedata', ensureBasemapBelow) }
+  }, [])
+
   const [hoverInfo, setHoverInfo] = useState<{
     longitude: number
     latitude: number
@@ -145,7 +161,7 @@ export const MapContainer = forwardRef<MapContainerHandle, MapContainerProps>(
           offset={12}
           className="pointer-events-none"
         >
-          <div className="font-body text-xs text-pho-navy">
+          <div className="font-body text-xs text-pho-onyx">
             {hoverInfo.rc ? (
               <>
                 <div className="font-bold">{hoverInfo.rc}</div>

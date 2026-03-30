@@ -1,9 +1,9 @@
 export const CHOROPLETH_COLORS = [
-  '#ebfffd',
-  '#9de5df',
-  '#2dbdb6',
-  '#007996',
-  '#213368',
+  '#fad1d4',
+  '#f2a0a3',
+  '#ed696e',
+  '#c23d41',
+  '#3c3c3b',
 ] as const
 
 export const CHOROPLETH_STOPS = [0, 2000, 5000, 10000, 50000] as const

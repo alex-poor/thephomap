@@ -25,7 +25,7 @@ export function ProximityRingLayer({ center, radiusKm }: ProximityRingLayerProps
         id="proximity-ring-fill"
         type="fill"
         paint={{
-          'fill-color': '#007996',
+          'fill-color': '#c23d41',
           'fill-opacity': 0.1,
         }}
       />
@@ -33,7 +33,7 @@ export function ProximityRingLayer({ center, radiusKm }: ProximityRingLayerProps
         id="proximity-ring-outline"
         type="line"
         paint={{
-          'line-color': '#007996',
+          'line-color': '#c23d41',
           'line-width': 2,
           'line-dasharray': [3, 2] as [number, number],
         }}
